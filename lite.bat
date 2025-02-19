@@ -1,0 +1,5 @@
+rd /s /q "%~dp0public\archives"
+rd /s /q "%~dp0public\categories"
+rd /s /q "%~dp0public\index"
+rd /s /q "%~dp0public\tags"
+rd /s /q "%~dp0public\xml"
