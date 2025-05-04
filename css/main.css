@@ -5,7 +5,7 @@ div.fpic {
   margin: 0;
   padding: 0;
   font-family: "montserrat";
-  background-image: linear-gradient(125deg, #00a2e8, #597dfc, #1296db, #b28bc2, #0080ff);
+  background-image: linear-gradient(125deg, #00a2e8, #597dfc, #1296db, #6a5acd, #0080ff);
   background-size: 400%;
   animation: bganimation 15s infinite;
 }
