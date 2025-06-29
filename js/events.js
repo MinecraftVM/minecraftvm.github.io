@@ -167,9 +167,6 @@ Fluid.events = {
     // eslint-disable-next-line no-console
     console.log(`
 ---------------------
-  Powered By CJA-OS
-  ©CJA-OS&CE-RAMOS
----------------------
   Framework: Hexo
   Theme: Fluid
 ---------------------
