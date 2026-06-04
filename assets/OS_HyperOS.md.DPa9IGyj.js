@@ -1,0 +1,1 @@
+import{_ as e,I as t,f as r}from"./chunks/framework.CzIb_Ns1.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"OS/HyperOS.md","filePath":"OS/HyperOS.md"}'),a={name:"OS/HyperOS.md"};function o(s,n,p,c,_,d){return t(),r("div")}const m=e(a,[["render",o]]);export{f as __pageData,m as default};

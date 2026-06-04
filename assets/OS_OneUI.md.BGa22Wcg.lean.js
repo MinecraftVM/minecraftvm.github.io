@@ -1,0 +1,1 @@
+import{_ as a,I as r,f as i,i as s}from"./chunks/framework.CzIb_Ns1.js";const b=JSON.parse('{"title":"OneUI","description":"","frontmatter":{},"headers":[],"relativePath":"OS/OneUI.md","filePath":"OS/OneUI.md"}'),t={name:"OS/OneUI.md"};function o(n,e,p,l,d,c){return r(),i("div",null,[...e[0]||(e[0]=[s("",27)])])}const u=a(t,[["render",o]]);export{b as __pageData,u as default};

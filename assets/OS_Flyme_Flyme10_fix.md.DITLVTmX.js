@@ -1,0 +1,1 @@
+import{_ as e,I as t,f as a}from"./chunks/framework.CzIb_Ns1.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"OS/Flyme/Flyme10/fix.md","filePath":"OS/Flyme/Flyme10/fix.md"}'),r={name:"OS/Flyme/Flyme10/fix.md"};function o(s,m,n,c,i,f){return t(),a("div")}const _=e(r,[["render",o]]);export{p as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as e,I as t,f as r}from"./chunks/framework.CzIb_Ns1.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"OS/OriginOS.md","filePath":"OS/OriginOS.md"}'),a={name:"OS/OriginOS.md"};function n(i,o,s,c,O,p){return t(),r("div")}const f=e(a,[["render",n]]);export{d as __pageData,f as default};

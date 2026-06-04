@@ -1,0 +1,1 @@
+import{_ as e,I as t,f as a}from"./chunks/framework.CzIb_Ns1.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"OS/Flyme.md","filePath":"OS/Flyme.md"}'),r={name:"OS/Flyme.md"};function o(s,n,c,m,l,p){return t(),a("div")}const i=e(r,[["render",o]]);export{d as __pageData,i as default};
